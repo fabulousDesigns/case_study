@@ -1,0 +1,8 @@
+fastapi
+httpx
+pydantic
+PyJWT
+python-dotenv
+psycopg2-binary
+alembic
+sqlalchemy
